@@ -6,7 +6,7 @@
 |Geert Espersen |Anne Maries vej 10 | 9000 Aalborg|21657799|geertespersen@outlook.dk|
 |Ellen Fjordside |Vesborgvej 16 |8240 Risskov |21473433|ellenfjordside@gmail.com|
 |Kurt Dahl Hansen |Nis Petersens Vej 23| 7500 Holstebro |26812939 | anita-mathiasen@hotmail.com|
-|Hans Hummelmose| Weidekampsgade 5| 2300 København S|21659785 |hans.hummelmose@protonmail.com|
+|Hans Hummelmose|Weidekampsgade 5| 2300 København S|21659785 |hans.hummelmose@protonmail.com|
 |Inger Lykke Bülow | Stævnevej 7| 5700 Svendborg|30256876 |fam.bulow@gmail.com|
 |Margit Plougmann | Skolegade 37 B |7500 Holstebro |20290259 |margit.plougmann@privat.dk|
 |Preben Kirkegaard Kjølhede| Bergdalsgatan 24| S-584 35 Linköping|+46(0)705688201|preben@kjolhede.se|
