@@ -20,6 +20,7 @@
 | Poul Gerhard Pedersen | Stanghedevej 36, Dollerup | 8800 Viborg | 50805599 | poulgerhardpedersen@gmail.com |
 | Jesper Schlütter| Valmuevej 43 | 7500 Holstebro | 30252680 | fam@schlytter.dk |
 | Knud Stubkjær | 2 Av. de la Madone | 98000 Monaco | +377 37787007 | knudstubkjaer@hotmail.com |
+| Jan Søndergaard-Andersen | Vibekevej 7D, 5. Sal | 3400 Hillerød | 22495058 | jansadk56@gmail.com |
 | Birgitte Fløe | Fønsvej 32, Føns | 5580 Nr. Aaby | 20853557 | birgittefloe@icloud.com |
 
 Forsiden: [https://3y1976.github.io/](https://3y1976.github.io/)
